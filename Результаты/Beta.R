@@ -1,0 +1,48 @@
+library(readr)
+library(tidyverse)
+library(ggstatsplot)
+results_1 <- read_csv("D:/Наука/Статьи и работы начатые/Отбор признаков/К007 - СПбГУ/Расчеты/I_Beta_1_results.csv")
+results_1 <- results_1 %>% filter(indicator == "tanimoto_distance") %>% select(c(1,2,5))
+results_2 <- read_csv("D:/Наука/Статьи и работы начатые/Отбор признаков/К007 - СПбГУ/Расчеты/I_Beta_2_results.csv")
+results_2 <- results_2 %>% filter(indicator == "tanimoto_distance") %>% select(c(1,2,5))
+results_3 <- read_csv("D:/Наука/Статьи и работы начатые/Отбор признаков/К007 - СПбГУ/Расчеты/I_Beta_3_results.csv")
+results_3 <- results_3 %>% filter(indicator == "tanimoto_distance") %>% select(c(1,2,5))
+results_4 <- read_csv("D:/Наука/Статьи и работы начатые/Отбор признаков/К007 - СПбГУ/Расчеты/I_Beta_4_results.csv")
+results_4 <- results_4 %>% filter(indicator == "tanimoto_distance") %>% select(c(1,2,5))
+results_5 <- read_csv("D:/Наука/Статьи и работы начатые/Отбор признаков/К007 - СПбГУ/Расчеты/I_Beta_5_results.csv")
+results_5 <- results_5 %>% filter(indicator == "tanimoto_distance") %>% select(c(1,2,5))
+results_6 <- read_csv("D:/Наука/Статьи и работы начатые/Отбор признаков/К007 - СПбГУ/Расчеты/I_Beta_6_results.csv")
+results_6 <- results_6 %>% filter(indicator == "tanimoto_distance") %>% select(c(1,2,5))
+results_7 <- read_csv("D:/Наука/Статьи и работы начатые/Отбор признаков/К007 - СПбГУ/Расчеты/I_Beta_7_results.csv")
+results_7 <- results_7 %>% filter(indicator == "tanimoto_distance") %>% select(c(1,2,5))
+results_8 <- read_csv("D:/Наука/Статьи и работы начатые/Отбор признаков/К007 - СПбГУ/Расчеты/I_Beta_8_results.csv")
+results_8 <- results_8 %>% filter(indicator == "tanimoto_distance") %>% select(c(1,2,5))
+results_9 <- read_csv("D:/Наука/Статьи и работы начатые/Отбор признаков/К007 - СПбГУ/Расчеты/I_Beta_9_results.csv")
+results_9 <- results_9 %>% filter(indicator == "tanimoto_distance") %>% select(c(1,2,5))
+results_10 <- read_csv("D:/Наука/Статьи и работы начатые/Отбор признаков/К007 - СПбГУ/Расчеты/I_Beta_10_results.csv")
+results_10 <- results_10 %>% filter(indicator == "tanimoto_distance") %>% select(c(1,2,5))
+library(readxl)
+DF <- read_excel("D:/Наука/Статьи и работы начатые/Отбор признаков/К007 - СПбГУ/Расчеты/ga_distributions_with_meta.xlsx")
+DF <- DF %>% select(c(1:4,6,8))
+
+SS <- matrix(NA,55,8)
+for(i in 1:11) {
+  for(j in 1:5) {
+    in_res <- c(results_1 %>% filter(metric_id == i & rule_id == j) %>% pull(value),
+                results_2 %>% filter(metric_id == i & rule_id == j) %>% pull(value),
+                results_3 %>% filter(metric_id == i & rule_id == j) %>% pull(value),
+                results_4 %>% filter(metric_id == i & rule_id == j) %>% pull(value),
+                results_5 %>% filter(metric_id == i & rule_id == j) %>% pull(value),
+                results_6 %>% filter(metric_id == i & rule_id == j) %>% pull(value),
+                results_7 %>% filter(metric_id == i & rule_id == j) %>% pull(value),
+                results_8 %>% filter(metric_id == i & rule_id == j) %>% pull(value),
+                results_9 %>% filter(metric_id == i & rule_id == j) %>% pull(value),
+                results_10 %>% filter(metric_id == i & rule_id == j) %>% pull(value))
+    DF_c <- DF %>% mutate(Index = in_res)
+    str <- c(i,j,cor(DF_c)[-7,7])
+    SS[5*(i-1)+j,] <- str
+  }
+}
+print(SS)
+ifelse(abs(SS)>0.84,SS,NA)
+str

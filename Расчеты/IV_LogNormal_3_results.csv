@@ -1,0 +1,496 @@
+"metric_id","rule_id","metric_name","indicator","value"
+1,1,"Pearson correlation","time_sec",0
+1,1,"Pearson correlation","memory_delta_gc_units",510
+1,1,"Pearson correlation","model_object_size_bytes",22112
+1,1,"Pearson correlation","tanimoto_distance",0.931034482758621
+1,1,"Pearson correlation","pct_true_influencing_found",7.14285714285714
+1,1,"Pearson correlation","pct_true_noninfluencing_found",97.7272727272727
+1,1,"Pearson correlation","pct_missing_influencing",92.8571428571429
+1,1,"Pearson correlation","pct_included_noninfluencing",2.27272727272727
+1,1,"Pearson correlation","n_selected",3
+1,2,"Pearson correlation","time_sec",0
+1,2,"Pearson correlation","memory_delta_gc_units",2692
+1,2,"Pearson correlation","model_object_size_bytes",96480
+1,2,"Pearson correlation","tanimoto_distance",0.76
+1,2,"Pearson correlation","pct_true_influencing_found",42.8571428571429
+1,2,"Pearson correlation","pct_true_noninfluencing_found",50
+1,2,"Pearson correlation","pct_missing_influencing",57.1428571428571
+1,2,"Pearson correlation","pct_included_noninfluencing",50
+1,2,"Pearson correlation","n_selected",34
+1,3,"Pearson correlation","time_sec",0
+1,3,"Pearson correlation","memory_delta_gc_units",849
+1,3,"Pearson correlation","model_object_size_bytes",33920
+1,3,"Pearson correlation","tanimoto_distance",0.838709677419355
+1,3,"Pearson correlation","pct_true_influencing_found",17.8571428571429
+1,3,"Pearson correlation","pct_true_noninfluencing_found",93.1818181818182
+1,3,"Pearson correlation","pct_missing_influencing",82.1428571428571
+1,3,"Pearson correlation","pct_included_noninfluencing",6.81818181818182
+1,3,"Pearson correlation","n_selected",8
+1,4,"Pearson correlation","time_sec",0.0100000000002183
+1,4,"Pearson correlation","memory_delta_gc_units",345
+1,4,"Pearson correlation","model_object_size_bytes",14880
+1,4,"Pearson correlation","tanimoto_distance",1
+1,4,"Pearson correlation","pct_true_influencing_found",0
+1,4,"Pearson correlation","pct_true_noninfluencing_found",100
+1,4,"Pearson correlation","pct_missing_influencing",100
+1,4,"Pearson correlation","pct_included_noninfluencing",0
+1,4,"Pearson correlation","n_selected",0
+1,5,"Pearson correlation","time_sec",0
+1,5,"Pearson correlation","memory_delta_gc_units",1887
+1,5,"Pearson correlation","model_object_size_bytes",71136
+1,5,"Pearson correlation","tanimoto_distance",0.790697674418605
+1,5,"Pearson correlation","pct_true_influencing_found",32.1428571428571
+1,5,"Pearson correlation","pct_true_noninfluencing_found",65.9090909090909
+1,5,"Pearson correlation","pct_missing_influencing",67.8571428571429
+1,5,"Pearson correlation","pct_included_noninfluencing",34.0909090909091
+1,5,"Pearson correlation","n_selected",24
+2,1,"Spearman correlation","time_sec",0
+2,1,"Spearman correlation","memory_delta_gc_units",510
+2,1,"Spearman correlation","model_object_size_bytes",22112
+2,1,"Spearman correlation","tanimoto_distance",0.931034482758621
+2,1,"Spearman correlation","pct_true_influencing_found",7.14285714285714
+2,1,"Spearman correlation","pct_true_noninfluencing_found",97.7272727272727
+2,1,"Spearman correlation","pct_missing_influencing",92.8571428571429
+2,1,"Spearman correlation","pct_included_noninfluencing",2.27272727272727
+2,1,"Spearman correlation","n_selected",3
+2,2,"Spearman correlation","time_sec",0
+2,2,"Spearman correlation","memory_delta_gc_units",3318
+2,2,"Spearman correlation","model_object_size_bytes",115264
+2,2,"Spearman correlation","tanimoto_distance",0.69811320754717
+2,2,"Spearman correlation","pct_true_influencing_found",57.1428571428571
+2,2,"Spearman correlation","pct_true_noninfluencing_found",43.1818181818182
+2,2,"Spearman correlation","pct_missing_influencing",42.8571428571429
+2,2,"Spearman correlation","pct_included_noninfluencing",56.8181818181818
+2,2,"Spearman correlation","n_selected",41
+2,3,"Spearman correlation","time_sec",0.0199999999999818
+2,3,"Spearman correlation","memory_delta_gc_units",849
+2,3,"Spearman correlation","model_object_size_bytes",33920
+2,3,"Spearman correlation","tanimoto_distance",0.875
+2,3,"Spearman correlation","pct_true_influencing_found",14.2857142857143
+2,3,"Spearman correlation","pct_true_noninfluencing_found",90.9090909090909
+2,3,"Spearman correlation","pct_missing_influencing",85.7142857142857
+2,3,"Spearman correlation","pct_included_noninfluencing",9.09090909090909
+2,3,"Spearman correlation","n_selected",8
+2,4,"Spearman correlation","time_sec",0.0299999999997453
+2,4,"Spearman correlation","memory_delta_gc_units",345
+2,4,"Spearman correlation","model_object_size_bytes",14880
+2,4,"Spearman correlation","tanimoto_distance",1
+2,4,"Spearman correlation","pct_true_influencing_found",0
+2,4,"Spearman correlation","pct_true_noninfluencing_found",100
+2,4,"Spearman correlation","pct_missing_influencing",100
+2,4,"Spearman correlation","pct_included_noninfluencing",0
+2,4,"Spearman correlation","n_selected",0
+2,5,"Spearman correlation","time_sec",0
+2,5,"Spearman correlation","memory_delta_gc_units",1070
+2,5,"Spearman correlation","model_object_size_bytes",42864
+2,5,"Spearman correlation","tanimoto_distance",0.823529411764706
+2,5,"Spearman correlation","pct_true_influencing_found",21.4285714285714
+2,5,"Spearman correlation","pct_true_noninfluencing_found",86.3636363636364
+2,5,"Spearman correlation","pct_missing_influencing",78.5714285714286
+2,5,"Spearman correlation","pct_included_noninfluencing",13.6363636363636
+2,5,"Spearman correlation","n_selected",12
+3,1,"Kendall tau","time_sec",0
+3,1,"Kendall tau","memory_delta_gc_units",510
+3,1,"Kendall tau","model_object_size_bytes",22112
+3,1,"Kendall tau","tanimoto_distance",0.892857142857143
+3,1,"Kendall tau","pct_true_influencing_found",10.7142857142857
+3,1,"Kendall tau","pct_true_noninfluencing_found",100
+3,1,"Kendall tau","pct_missing_influencing",89.2857142857143
+3,1,"Kendall tau","pct_included_noninfluencing",0
+3,1,"Kendall tau","n_selected",3
+3,2,"Kendall tau","time_sec",0
+3,2,"Kendall tau","memory_delta_gc_units",1892
+3,2,"Kendall tau","model_object_size_bytes",71136
+3,2,"Kendall tau","tanimoto_distance",0.761904761904762
+3,2,"Kendall tau","pct_true_influencing_found",35.7142857142857
+3,2,"Kendall tau","pct_true_noninfluencing_found",68.1818181818182
+3,2,"Kendall tau","pct_missing_influencing",64.2857142857143
+3,2,"Kendall tau","pct_included_noninfluencing",31.8181818181818
+3,2,"Kendall tau","n_selected",24
+3,3,"Kendall tau","time_sec",0
+3,3,"Kendall tau","memory_delta_gc_units",849
+3,3,"Kendall tau","model_object_size_bytes",33920
+3,3,"Kendall tau","tanimoto_distance",0.838709677419355
+3,3,"Kendall tau","pct_true_influencing_found",17.8571428571429
+3,3,"Kendall tau","pct_true_noninfluencing_found",93.1818181818182
+3,3,"Kendall tau","pct_missing_influencing",82.1428571428571
+3,3,"Kendall tau","pct_included_noninfluencing",6.81818181818182
+3,3,"Kendall tau","n_selected",8
+3,4,"Kendall tau","time_sec",0.0300000000002001
+3,4,"Kendall tau","memory_delta_gc_units",345
+3,4,"Kendall tau","model_object_size_bytes",14880
+3,4,"Kendall tau","tanimoto_distance",1
+3,4,"Kendall tau","pct_true_influencing_found",0
+3,4,"Kendall tau","pct_true_noninfluencing_found",100
+3,4,"Kendall tau","pct_missing_influencing",100
+3,4,"Kendall tau","pct_included_noninfluencing",0
+3,4,"Kendall tau","n_selected",0
+3,5,"Kendall tau","time_sec",0
+3,5,"Kendall tau","memory_delta_gc_units",1597
+3,5,"Kendall tau","model_object_size_bytes",61472
+3,5,"Kendall tau","tanimoto_distance",0.769230769230769
+3,5,"Kendall tau","pct_true_influencing_found",32.1428571428571
+3,5,"Kendall tau","pct_true_noninfluencing_found",75
+3,5,"Kendall tau","pct_missing_influencing",67.8571428571429
+3,5,"Kendall tau","pct_included_noninfluencing",25
+3,5,"Kendall tau","n_selected",20
+4,1,"Hoeffding's D","time_sec",0
+4,1,"Hoeffding's D","memory_delta_gc_units",510
+4,1,"Hoeffding's D","model_object_size_bytes",22112
+4,1,"Hoeffding's D","tanimoto_distance",0.931034482758621
+4,1,"Hoeffding's D","pct_true_influencing_found",7.14285714285714
+4,1,"Hoeffding's D","pct_true_noninfluencing_found",97.7272727272727
+4,1,"Hoeffding's D","pct_missing_influencing",92.8571428571429
+4,1,"Hoeffding's D","pct_included_noninfluencing",2.27272727272727
+4,1,"Hoeffding's D","n_selected",3
+4,2,"Hoeffding's D","time_sec",0
+4,2,"Hoeffding's D","memory_delta_gc_units",345
+4,2,"Hoeffding's D","model_object_size_bytes",14880
+4,2,"Hoeffding's D","tanimoto_distance",1
+4,2,"Hoeffding's D","pct_true_influencing_found",0
+4,2,"Hoeffding's D","pct_true_noninfluencing_found",100
+4,2,"Hoeffding's D","pct_missing_influencing",100
+4,2,"Hoeffding's D","pct_included_noninfluencing",0
+4,2,"Hoeffding's D","n_selected",0
+4,3,"Hoeffding's D","time_sec",0
+4,3,"Hoeffding's D","memory_delta_gc_units",844
+4,3,"Hoeffding's D","model_object_size_bytes",33920
+4,3,"Hoeffding's D","tanimoto_distance",0.838709677419355
+4,3,"Hoeffding's D","pct_true_influencing_found",17.8571428571429
+4,3,"Hoeffding's D","pct_true_noninfluencing_found",93.1818181818182
+4,3,"Hoeffding's D","pct_missing_influencing",82.1428571428571
+4,3,"Hoeffding's D","pct_included_noninfluencing",6.81818181818182
+4,3,"Hoeffding's D","n_selected",8
+4,4,"Hoeffding's D","time_sec",0.0999999999999091
+4,4,"Hoeffding's D","memory_delta_gc_units",345
+4,4,"Hoeffding's D","model_object_size_bytes",14880
+4,4,"Hoeffding's D","tanimoto_distance",1
+4,4,"Hoeffding's D","pct_true_influencing_found",0
+4,4,"Hoeffding's D","pct_true_noninfluencing_found",100
+4,4,"Hoeffding's D","pct_missing_influencing",100
+4,4,"Hoeffding's D","pct_included_noninfluencing",0
+4,4,"Hoeffding's D","n_selected",0
+4,5,"Hoeffding's D","time_sec",0
+4,5,"Hoeffding's D","memory_delta_gc_units",1458
+4,5,"Hoeffding's D","model_object_size_bytes",56736
+4,5,"Hoeffding's D","tanimoto_distance",0.789473684210526
+4,5,"Hoeffding's D","pct_true_influencing_found",28.5714285714286
+4,5,"Hoeffding's D","pct_true_noninfluencing_found",77.2727272727273
+4,5,"Hoeffding's D","pct_missing_influencing",71.4285714285714
+4,5,"Hoeffding's D","pct_included_noninfluencing",22.7272727272727
+4,5,"Hoeffding's D","n_selected",18
+5,1,"Bergsma–Dassios tau","time_sec",0
+5,1,"Bergsma–Dassios tau","memory_delta_gc_units",510
+5,1,"Bergsma–Dassios tau","model_object_size_bytes",22112
+5,1,"Bergsma–Dassios tau","tanimoto_distance",0.966666666666667
+5,1,"Bergsma–Dassios tau","pct_true_influencing_found",3.57142857142857
+5,1,"Bergsma–Dassios tau","pct_true_noninfluencing_found",95.4545454545455
+5,1,"Bergsma–Dassios tau","pct_missing_influencing",96.4285714285714
+5,1,"Bergsma–Dassios tau","pct_included_noninfluencing",4.54545454545455
+5,1,"Bergsma–Dassios tau","n_selected",3
+5,2,"Bergsma–Dassios tau","time_sec",0
+5,2,"Bergsma–Dassios tau","memory_delta_gc_units",345
+5,2,"Bergsma–Dassios tau","model_object_size_bytes",14880
+5,2,"Bergsma–Dassios tau","tanimoto_distance",1
+5,2,"Bergsma–Dassios tau","pct_true_influencing_found",0
+5,2,"Bergsma–Dassios tau","pct_true_noninfluencing_found",100
+5,2,"Bergsma–Dassios tau","pct_missing_influencing",100
+5,2,"Bergsma–Dassios tau","pct_included_noninfluencing",0
+5,2,"Bergsma–Dassios tau","n_selected",0
+5,3,"Bergsma–Dassios tau","time_sec",0
+5,3,"Bergsma–Dassios tau","memory_delta_gc_units",844
+5,3,"Bergsma–Dassios tau","model_object_size_bytes",33920
+5,3,"Bergsma–Dassios tau","tanimoto_distance",0.875
+5,3,"Bergsma–Dassios tau","pct_true_influencing_found",14.2857142857143
+5,3,"Bergsma–Dassios tau","pct_true_noninfluencing_found",90.9090909090909
+5,3,"Bergsma–Dassios tau","pct_missing_influencing",85.7142857142857
+5,3,"Bergsma–Dassios tau","pct_included_noninfluencing",9.09090909090909
+5,3,"Bergsma–Dassios tau","n_selected",8
+5,4,"Bergsma–Dassios tau","time_sec",0.00999999999976353
+5,4,"Bergsma–Dassios tau","memory_delta_gc_units",345
+5,4,"Bergsma–Dassios tau","model_object_size_bytes",14880
+5,4,"Bergsma–Dassios tau","tanimoto_distance",1
+5,4,"Bergsma–Dassios tau","pct_true_influencing_found",0
+5,4,"Bergsma–Dassios tau","pct_true_noninfluencing_found",100
+5,4,"Bergsma–Dassios tau","pct_missing_influencing",100
+5,4,"Bergsma–Dassios tau","pct_included_noninfluencing",0
+5,4,"Bergsma–Dassios tau","n_selected",0
+5,5,"Bergsma–Dassios tau","time_sec",0
+5,5,"Bergsma–Dassios tau","memory_delta_gc_units",1668
+5,5,"Bergsma–Dassios tau","model_object_size_bytes",63864
+5,5,"Bergsma–Dassios tau","tanimoto_distance",0.743589743589744
+5,5,"Bergsma–Dassios tau","pct_true_influencing_found",35.7142857142857
+5,5,"Bergsma–Dassios tau","pct_true_noninfluencing_found",75
+5,5,"Bergsma–Dassios tau","pct_missing_influencing",64.2857142857143
+5,5,"Bergsma–Dassios tau","pct_included_noninfluencing",25
+5,5,"Bergsma–Dassios tau","n_selected",21
+6,1,"Distance correlation","time_sec",0.0199999999999818
+6,1,"Distance correlation","memory_delta_gc_units",510
+6,1,"Distance correlation","model_object_size_bytes",22112
+6,1,"Distance correlation","tanimoto_distance",0.931034482758621
+6,1,"Distance correlation","pct_true_influencing_found",7.14285714285714
+6,1,"Distance correlation","pct_true_noninfluencing_found",97.7272727272727
+6,1,"Distance correlation","pct_missing_influencing",92.8571428571429
+6,1,"Distance correlation","pct_included_noninfluencing",2.27272727272727
+6,1,"Distance correlation","n_selected",3
+6,2,"Distance correlation","time_sec",0.0199999999999818
+6,2,"Distance correlation","memory_delta_gc_units",6682
+6,2,"Distance correlation","model_object_size_bytes",207896
+6,2,"Distance correlation","tanimoto_distance",0.611111111111111
+6,2,"Distance correlation","pct_true_influencing_found",100
+6,2,"Distance correlation","pct_true_noninfluencing_found",0
+6,2,"Distance correlation","pct_missing_influencing",0
+6,2,"Distance correlation","pct_included_noninfluencing",100
+6,2,"Distance correlation","n_selected",72
+6,3,"Distance correlation","time_sec",0
+6,3,"Distance correlation","memory_delta_gc_units",849
+6,3,"Distance correlation","model_object_size_bytes",33920
+6,3,"Distance correlation","tanimoto_distance",0.875
+6,3,"Distance correlation","pct_true_influencing_found",14.2857142857143
+6,3,"Distance correlation","pct_true_noninfluencing_found",90.9090909090909
+6,3,"Distance correlation","pct_missing_influencing",85.7142857142857
+6,3,"Distance correlation","pct_included_noninfluencing",9.09090909090909
+6,3,"Distance correlation","n_selected",8
+6,4,"Distance correlation","time_sec",0.0900000000001455
+6,4,"Distance correlation","memory_delta_gc_units",345
+6,4,"Distance correlation","model_object_size_bytes",14880
+6,4,"Distance correlation","tanimoto_distance",1
+6,4,"Distance correlation","pct_true_influencing_found",0
+6,4,"Distance correlation","pct_true_noninfluencing_found",100
+6,4,"Distance correlation","pct_missing_influencing",100
+6,4,"Distance correlation","pct_included_noninfluencing",0
+6,4,"Distance correlation","n_selected",0
+6,5,"Distance correlation","time_sec",0
+6,5,"Distance correlation","memory_delta_gc_units",1527
+6,5,"Distance correlation","model_object_size_bytes",59096
+6,5,"Distance correlation","tanimoto_distance",0.763157894736842
+6,5,"Distance correlation","pct_true_influencing_found",32.1428571428571
+6,5,"Distance correlation","pct_true_noninfluencing_found",77.2727272727273
+6,5,"Distance correlation","pct_missing_influencing",67.8571428571429
+6,5,"Distance correlation","pct_included_noninfluencing",22.7272727272727
+6,5,"Distance correlation","n_selected",19
+7,1,"Mutual information","time_sec",0
+7,1,"Mutual information","memory_delta_gc_units",510
+7,1,"Mutual information","model_object_size_bytes",22112
+7,1,"Mutual information","tanimoto_distance",0.892857142857143
+7,1,"Mutual information","pct_true_influencing_found",10.7142857142857
+7,1,"Mutual information","pct_true_noninfluencing_found",100
+7,1,"Mutual information","pct_missing_influencing",89.2857142857143
+7,1,"Mutual information","pct_included_noninfluencing",0
+7,1,"Mutual information","n_selected",3
+7,2,"Mutual information","time_sec",0.00999999999976353
+7,2,"Mutual information","memory_delta_gc_units",6682
+7,2,"Mutual information","model_object_size_bytes",207896
+7,2,"Mutual information","tanimoto_distance",0.611111111111111
+7,2,"Mutual information","pct_true_influencing_found",100
+7,2,"Mutual information","pct_true_noninfluencing_found",0
+7,2,"Mutual information","pct_missing_influencing",0
+7,2,"Mutual information","pct_included_noninfluencing",100
+7,2,"Mutual information","n_selected",72
+7,3,"Mutual information","time_sec",0.00999999999976353
+7,3,"Mutual information","memory_delta_gc_units",849
+7,3,"Mutual information","model_object_size_bytes",33920
+7,3,"Mutual information","tanimoto_distance",0.875
+7,3,"Mutual information","pct_true_influencing_found",14.2857142857143
+7,3,"Mutual information","pct_true_noninfluencing_found",90.9090909090909
+7,3,"Mutual information","pct_missing_influencing",85.7142857142857
+7,3,"Mutual information","pct_included_noninfluencing",9.09090909090909
+7,3,"Mutual information","n_selected",8
+7,4,"Mutual information","time_sec",0
+7,4,"Mutual information","memory_delta_gc_units",345
+7,4,"Mutual information","model_object_size_bytes",14880
+7,4,"Mutual information","tanimoto_distance",1
+7,4,"Mutual information","pct_true_influencing_found",0
+7,4,"Mutual information","pct_true_noninfluencing_found",100
+7,4,"Mutual information","pct_missing_influencing",100
+7,4,"Mutual information","pct_included_noninfluencing",0
+7,4,"Mutual information","n_selected",0
+7,5,"Mutual information","time_sec",0
+7,5,"Mutual information","memory_delta_gc_units",731
+7,5,"Mutual information","model_object_size_bytes",30992
+7,5,"Mutual information","tanimoto_distance",0.870967741935484
+7,5,"Mutual information","pct_true_influencing_found",14.2857142857143
+7,5,"Mutual information","pct_true_noninfluencing_found",93.1818181818182
+7,5,"Mutual information","pct_missing_influencing",85.7142857142857
+7,5,"Mutual information","pct_included_noninfluencing",6.81818181818182
+7,5,"Mutual information","n_selected",7
+8,1,"MIС","time_sec",0
+8,1,"MIС","memory_delta_gc_units",510
+8,1,"MIС","model_object_size_bytes",22112
+8,1,"MIС","tanimoto_distance",0.931034482758621
+8,1,"MIС","pct_true_influencing_found",7.14285714285714
+8,1,"MIС","pct_true_noninfluencing_found",97.7272727272727
+8,1,"MIС","pct_missing_influencing",92.8571428571429
+8,1,"MIС","pct_included_noninfluencing",2.27272727272727
+8,1,"MIС","n_selected",3
+8,2,"MIС","time_sec",0.0199999999999818
+8,2,"MIС","memory_delta_gc_units",3894
+8,2,"MIС","model_object_size_bytes",131992
+8,2,"MIС","tanimoto_distance",0.706896551724138
+8,2,"MIС","pct_true_influencing_found",60.7142857142857
+8,2,"MIС","pct_true_noninfluencing_found",31.8181818181818
+8,2,"MIС","pct_missing_influencing",39.2857142857143
+8,2,"MIС","pct_included_noninfluencing",68.1818181818182
+8,2,"MIС","n_selected",47
+8,3,"MIС","time_sec",0
+8,3,"MIС","memory_delta_gc_units",849
+8,3,"MIС","model_object_size_bytes",33920
+8,3,"MIС","tanimoto_distance",0.875
+8,3,"MIС","pct_true_influencing_found",14.2857142857143
+8,3,"MIС","pct_true_noninfluencing_found",90.9090909090909
+8,3,"MIС","pct_missing_influencing",85.7142857142857
+8,3,"MIС","pct_included_noninfluencing",9.09090909090909
+8,3,"MIС","n_selected",8
+8,4,"MIС","time_sec",0.0799999999999272
+8,4,"MIС","memory_delta_gc_units",345
+8,4,"MIС","model_object_size_bytes",14880
+8,4,"MIС","tanimoto_distance",1
+8,4,"MIС","pct_true_influencing_found",0
+8,4,"MIС","pct_true_noninfluencing_found",100
+8,4,"MIС","pct_missing_influencing",100
+8,4,"MIС","pct_included_noninfluencing",0
+8,4,"MIС","n_selected",0
+8,5,"MIС","time_sec",0
+8,5,"MIС","memory_delta_gc_units",731
+8,5,"MIС","model_object_size_bytes",30992
+8,5,"MIС","tanimoto_distance",0.90625
+8,5,"MIС","pct_true_influencing_found",10.7142857142857
+8,5,"MIС","pct_true_noninfluencing_found",90.9090909090909
+8,5,"MIС","pct_missing_influencing",89.2857142857143
+8,5,"MIС","pct_included_noninfluencing",9.09090909090909
+8,5,"MIС","n_selected",7
+9,1,"Chatterjee xi","time_sec",0
+9,1,"Chatterjee xi","memory_delta_gc_units",510
+9,1,"Chatterjee xi","model_object_size_bytes",22112
+9,1,"Chatterjee xi","tanimoto_distance",0.931034482758621
+9,1,"Chatterjee xi","pct_true_influencing_found",7.14285714285714
+9,1,"Chatterjee xi","pct_true_noninfluencing_found",97.7272727272727
+9,1,"Chatterjee xi","pct_missing_influencing",92.8571428571429
+9,1,"Chatterjee xi","pct_included_noninfluencing",2.27272727272727
+9,1,"Chatterjee xi","n_selected",3
+9,2,"Chatterjee xi","time_sec",0.0199999999999818
+9,2,"Chatterjee xi","memory_delta_gc_units",688
+9,2,"Chatterjee xi","model_object_size_bytes",28832
+9,2,"Chatterjee xi","tanimoto_distance",0.903225806451613
+9,2,"Chatterjee xi","pct_true_influencing_found",10.7142857142857
+9,2,"Chatterjee xi","pct_true_noninfluencing_found",93.1818181818182
+9,2,"Chatterjee xi","pct_missing_influencing",89.2857142857143
+9,2,"Chatterjee xi","pct_included_noninfluencing",6.81818181818182
+9,2,"Chatterjee xi","n_selected",6
+9,3,"Chatterjee xi","time_sec",0
+9,3,"Chatterjee xi","memory_delta_gc_units",849
+9,3,"Chatterjee xi","model_object_size_bytes",33920
+9,3,"Chatterjee xi","tanimoto_distance",0.909090909090909
+9,3,"Chatterjee xi","pct_true_influencing_found",10.7142857142857
+9,3,"Chatterjee xi","pct_true_noninfluencing_found",88.6363636363636
+9,3,"Chatterjee xi","pct_missing_influencing",89.2857142857143
+9,3,"Chatterjee xi","pct_included_noninfluencing",11.3636363636364
+9,3,"Chatterjee xi","n_selected",8
+9,4,"Chatterjee xi","time_sec",0.0900000000001455
+9,4,"Chatterjee xi","memory_delta_gc_units",345
+9,4,"Chatterjee xi","model_object_size_bytes",14880
+9,4,"Chatterjee xi","tanimoto_distance",1
+9,4,"Chatterjee xi","pct_true_influencing_found",0
+9,4,"Chatterjee xi","pct_true_noninfluencing_found",100
+9,4,"Chatterjee xi","pct_missing_influencing",100
+9,4,"Chatterjee xi","pct_included_noninfluencing",0
+9,4,"Chatterjee xi","n_selected",0
+9,5,"Chatterjee xi","time_sec",0
+9,5,"Chatterjee xi","memory_delta_gc_units",914
+9,5,"Chatterjee xi","model_object_size_bytes",36336
+9,5,"Chatterjee xi","tanimoto_distance",0.911764705882353
+9,5,"Chatterjee xi","pct_true_influencing_found",10.7142857142857
+9,5,"Chatterjee xi","pct_true_noninfluencing_found",86.3636363636364
+9,5,"Chatterjee xi","pct_missing_influencing",89.2857142857143
+9,5,"Chatterjee xi","pct_included_noninfluencing",13.6363636363636
+9,5,"Chatterjee xi","n_selected",9
+10,1,"Renyi maximal correlation","time_sec",0
+10,1,"Renyi maximal correlation","memory_delta_gc_units",510
+10,1,"Renyi maximal correlation","model_object_size_bytes",22112
+10,1,"Renyi maximal correlation","tanimoto_distance",0.966666666666667
+10,1,"Renyi maximal correlation","pct_true_influencing_found",3.57142857142857
+10,1,"Renyi maximal correlation","pct_true_noninfluencing_found",95.4545454545455
+10,1,"Renyi maximal correlation","pct_missing_influencing",96.4285714285714
+10,1,"Renyi maximal correlation","pct_included_noninfluencing",4.54545454545455
+10,1,"Renyi maximal correlation","n_selected",3
+10,2,"Renyi maximal correlation","time_sec",0
+10,2,"Renyi maximal correlation","memory_delta_gc_units",6682
+10,2,"Renyi maximal correlation","model_object_size_bytes",207896
+10,2,"Renyi maximal correlation","tanimoto_distance",0.611111111111111
+10,2,"Renyi maximal correlation","pct_true_influencing_found",100
+10,2,"Renyi maximal correlation","pct_true_noninfluencing_found",0
+10,2,"Renyi maximal correlation","pct_missing_influencing",0
+10,2,"Renyi maximal correlation","pct_included_noninfluencing",100
+10,2,"Renyi maximal correlation","n_selected",72
+10,3,"Renyi maximal correlation","time_sec",0
+10,3,"Renyi maximal correlation","memory_delta_gc_units",849
+10,3,"Renyi maximal correlation","model_object_size_bytes",33920
+10,3,"Renyi maximal correlation","tanimoto_distance",0.875
+10,3,"Renyi maximal correlation","pct_true_influencing_found",14.2857142857143
+10,3,"Renyi maximal correlation","pct_true_noninfluencing_found",90.9090909090909
+10,3,"Renyi maximal correlation","pct_missing_influencing",85.7142857142857
+10,3,"Renyi maximal correlation","pct_included_noninfluencing",9.09090909090909
+10,3,"Renyi maximal correlation","n_selected",8
+10,4,"Renyi maximal correlation","time_sec",0.550000000000182
+10,4,"Renyi maximal correlation","memory_delta_gc_units",345
+10,4,"Renyi maximal correlation","model_object_size_bytes",14880
+10,4,"Renyi maximal correlation","tanimoto_distance",1
+10,4,"Renyi maximal correlation","pct_true_influencing_found",0
+10,4,"Renyi maximal correlation","pct_true_noninfluencing_found",100
+10,4,"Renyi maximal correlation","pct_missing_influencing",100
+10,4,"Renyi maximal correlation","pct_included_noninfluencing",0
+10,4,"Renyi maximal correlation","n_selected",0
+10,5,"Renyi maximal correlation","time_sec",0
+10,5,"Renyi maximal correlation","memory_delta_gc_units",5951
+10,5,"Renyi maximal correlation","model_object_size_bytes",188768
+10,5,"Renyi maximal correlation","tanimoto_distance",0.657142857142857
+10,5,"Renyi maximal correlation","pct_true_influencing_found",85.7142857142857
+10,5,"Renyi maximal correlation","pct_true_noninfluencing_found",4.54545454545455
+10,5,"Renyi maximal correlation","pct_missing_influencing",14.2857142857143
+10,5,"Renyi maximal correlation","pct_included_noninfluencing",95.4545454545455
+10,5,"Renyi maximal correlation","n_selected",66
+11,1,"HSIC statistic","time_sec",0
+11,1,"HSIC statistic","memory_delta_gc_units",510
+11,1,"HSIC statistic","model_object_size_bytes",22112
+11,1,"HSIC statistic","tanimoto_distance",0.931034482758621
+11,1,"HSIC statistic","pct_true_influencing_found",7.14285714285714
+11,1,"HSIC statistic","pct_true_noninfluencing_found",97.7272727272727
+11,1,"HSIC statistic","pct_missing_influencing",92.8571428571429
+11,1,"HSIC statistic","pct_included_noninfluencing",2.27272727272727
+11,1,"HSIC statistic","n_selected",3
+11,2,"HSIC statistic","time_sec",0
+11,2,"HSIC statistic","memory_delta_gc_units",4934
+11,2,"HSIC statistic","model_object_size_bytes",161152
+11,2,"HSIC statistic","tanimoto_distance",0.712121212121212
+11,2,"HSIC statistic","pct_true_influencing_found",67.8571428571429
+11,2,"HSIC statistic","pct_true_noninfluencing_found",13.6363636363636
+11,2,"HSIC statistic","pct_missing_influencing",32.1428571428571
+11,2,"HSIC statistic","pct_included_noninfluencing",86.3636363636364
+11,2,"HSIC statistic","n_selected",57
+11,3,"HSIC statistic","time_sec",0
+11,3,"HSIC statistic","memory_delta_gc_units",849
+11,3,"HSIC statistic","model_object_size_bytes",33920
+11,3,"HSIC statistic","tanimoto_distance",0.909090909090909
+11,3,"HSIC statistic","pct_true_influencing_found",10.7142857142857
+11,3,"HSIC statistic","pct_true_noninfluencing_found",88.6363636363636
+11,3,"HSIC statistic","pct_missing_influencing",89.2857142857143
+11,3,"HSIC statistic","pct_included_noninfluencing",11.3636363636364
+11,3,"HSIC statistic","n_selected",8
+11,4,"HSIC statistic","time_sec",12.7200000000003
+11,4,"HSIC statistic","memory_delta_gc_units",345
+11,4,"HSIC statistic","model_object_size_bytes",14880
+11,4,"HSIC statistic","tanimoto_distance",1
+11,4,"HSIC statistic","pct_true_influencing_found",0
+11,4,"HSIC statistic","pct_true_noninfluencing_found",100
+11,4,"HSIC statistic","pct_missing_influencing",100
+11,4,"HSIC statistic","pct_included_noninfluencing",0
+11,4,"HSIC statistic","n_selected",0
+11,5,"HSIC statistic","time_sec",0
+11,5,"HSIC statistic","memory_delta_gc_units",1668
+11,5,"HSIC statistic","model_object_size_bytes",63864
+11,5,"HSIC statistic","tanimoto_distance",0.804878048780488
+11,5,"HSIC statistic","pct_true_influencing_found",28.5714285714286
+11,5,"HSIC statistic","pct_true_noninfluencing_found",70.4545454545455
+11,5,"HSIC statistic","pct_missing_influencing",71.4285714285714
+11,5,"HSIC statistic","pct_included_noninfluencing",29.5454545454545
+11,5,"HSIC statistic","n_selected",21
